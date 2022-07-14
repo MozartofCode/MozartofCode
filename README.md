@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MozartofCode
-- 👀 I’m interested in Artificial Intelligence, web development, design and many more!!
+- 👀 I’m interested in front-end development, blockchain technology and artificial Intelligence!!
 - 🌱 I’m currently studying Computer Science at RIT
 - 💞️ I’m looking to collaborate on various projects and app ideas!
