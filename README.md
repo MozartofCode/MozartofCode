@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @MozartofCode
-- 👀 I’m interested in back-end development, cloud computing, blockchain technology and artificial Intelligence!!
-- 🌱 I’m currently studying Computer Science at RIT
-- 💞️ I’m looking to collaborate on various projects and app ideas!
+- 👋 Hi, My name is Bertan Berker
+- 🌱 I’m currently studying Computer Science at Rochester Institute of Technology
+- 👀 I’m interested in back-end development and artificial Intelligence!
+- 💞️ I’m looking to collaborate on various projects...
+- LinkedIn: https://www.linkedin.com/in/bertan-berker/
