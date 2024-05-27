@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Bertan Berker
 - 🌱 I’m currently studying Computer Science at Rochester Institute of Technology
-- 👀 I’m interested in back-end development and artificial Intelligence!
+- 👀 I’m interested in back-end development, artificial Intelligence and crypto/blockchain!
 - 💞️ I’m looking to collaborate on various projects...
 - LinkedIn: https://www.linkedin.com/in/bertan-berker/
